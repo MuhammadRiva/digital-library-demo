@@ -1,0 +1,12 @@
+.myBG {
+  background: url("../../asset/Library1.jpg");
+  height: 92.5vh;
+  background-size: cover;
+}
+
+.heading {
+  height: 50%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}

@@ -1,0 +1,24 @@
+.navBackground {
+  background-color: #002333;
+}
+
+.nav {
+  padding: 10px;
+}
+
+.nav-link:hover {
+  color: #00ff84;
+}
+
+.btn-primary {
+  background-color: white !important;
+  color: #002333 !important;
+  font-weight: bold !important;
+  border: none !important;
+}
+.btn-primary:hover {
+  background-color: #00ff84 !important;
+}
+.btn-primary:focus {
+  box-shadow: none !important;
+}
